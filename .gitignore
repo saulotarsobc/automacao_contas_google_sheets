@@ -1,0 +1,5 @@
+.env
+venv
+
+#por enquanto o main fica de fora
+main.py 
